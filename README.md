@@ -372,7 +372,7 @@ I'm continuously expanding my knowledge in:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thesamuelcustodio)
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=thesamuelcustodio)
 
 ---
 
