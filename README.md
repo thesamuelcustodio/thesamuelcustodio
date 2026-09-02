@@ -374,7 +374,7 @@ I'm continuously expanding my knowledge in:
 
 <p align="left">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=thesamuelcustodioE&show_icons=true&theme=tokyonight&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=thesamuelcustodio&show_icons=true&theme=tokyonight&count_private=true" />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesamuelcustodio&layout=compact&theme=tokyonight" />
 
