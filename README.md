@@ -372,7 +372,14 @@ I'm continuously expanding my knowledge in:
 
 ## 📊 GitHub Stats
 
-[GitHub Stats](https://github-readme-stats.vercel.app/api?username=thesamuelcustodio)
+<p align="left">
+
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=thesamuelcustodio&show_icons=true&theme=tokyonight" />
+
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=thesamuelcustodio&layout=compact&theme=tokyonight" />
+
+</p>
+
 
 ---
 
