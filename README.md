@@ -315,6 +315,7 @@ My technology background also includes:
 
 Before focusing more heavily on software engineering, I developed practical experience with digital production and online projects.
 
+* 🎥 Premiere Pro
 * 🎬 DaVinci Resolve
 * 🎞️ After Effects
 * ✂️ CapCut
@@ -323,7 +324,7 @@ Before focusing more heavily on software engineering, I developed practical expe
 * 🌐 WordPress
 * 📱 Social Media
 * 📈 Paid Traffic
-* 🎥 Content Production
+* 📸 Content Production
 * 📊 Digital Analytics
 
 ---
@@ -373,9 +374,9 @@ I'm continuously expanding my knowledge in:
 
 <p align="left">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=thesamuelcustodioE&show_icons=true&theme=tokyonight&count_private=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesamuelcustodio&layout=compact&theme=tokyonight" />
 
 </p>
 
