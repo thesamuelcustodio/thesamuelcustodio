@@ -397,7 +397,9 @@ My long-term goal is to become a **highly capable Full Stack Software Engineer**
 ## 🌎 Languages
 
 🇧🇷 **Portuguese** — Native
+
 🇺🇸 **English** — Advanced
+
 🇪🇸 **Spanish** — Basic
 
 ---
